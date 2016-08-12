@@ -1,0 +1,36 @@
+body{
+	background-image: url("images/sea4.jpg");
+	}
+h1	{
+	text-align: center;
+	color: 	#A52A2A;
+	font-family: Consolas;
+	}
+h2	{
+	text-align: center;
+	color: #B8860B;
+	font-size: 30px;
+	font-family: Consolas;
+	}
+a	{
+	font-size: 20px;
+	color: darkred;
+	text-decoration: NONE;
+	}
+a:hover
+	{
+	font-size: 30px;
+	}
+ol	{
+	color: yellow;
+	font-size: 25px;
+	font-family: Algerian;
+	}
+.a	{
+	color: orange;
+	font-size: 20px;
+	font-family: Comic Sans Ms;
+	}
+h3	{
+	color: blue;	
+	}

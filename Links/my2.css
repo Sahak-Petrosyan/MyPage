@@ -1,0 +1,27 @@
+body{
+	background-image: url("images/sea.jpg");
+	}
+h1	{
+	text-align: center;
+	color: 	blue;
+	font-family: Sitka Display;
+	}
+a	{
+	font-size: 20px;
+	color: darkgrey;
+	text-decoration: NONE;
+	}
+a:hover
+	{
+	font-size: 30px;
+	}
+ol	{
+	color: pink;
+	font-size: 25px;
+	font-family: Agency FB;
+	}
+.a	{
+	font-size: 20px;
+	color: orange;
+	}
+	
